@@ -1519,7 +1519,7 @@
     <message>
         <location filename="../../src/notation/view/widgets/editstafftype.ui" line="686"/>
         <source>Show fingering in tablature</source>
-        <translation>Mostra diteggiatura nell&apos;intavolatura</translation>
+        <translation>Mostra diteggiatura nella tablatura</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstafftype.ui" line="20"/>
@@ -2728,7 +2728,7 @@ space unit</extracomment>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="3853"/>
         <source>Hide TAB clefs after the first system where they appear</source>
-        <translation>Nascondi tutte le chiavi dell&apos;intavolatura dopo il primo sistema in cui compaiono</translation>
+        <translation>Nascondi chiavi della TAB dopo il primo sistema in cui compaiono</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="3860"/>
@@ -2738,12 +2738,12 @@ space unit</extracomment>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="3873"/>
         <source>Standard TAB clef</source>
-        <translation>Chiave d&apos;intavolatura standard</translation>
+        <translation>Chiave TAB standard</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="3880"/>
         <source>Serif TAB clef</source>
-        <translation>Chiave d&apos;intavolatura Serif</translation>
+        <translation>Chiave TAB Serif</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="3893"/>
@@ -2876,7 +2876,7 @@ space unit</extracomment>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="4103"/>
         <source>Only for a change to C Maj / A min</source>
-        <translation>Solo per il cambio a Do maggiore / La minore</translation>
+        <translation>Solo per il cambio a DO maggiore / LA minore</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="4110"/>
@@ -3191,7 +3191,7 @@ space unit</extracomment>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="9802"/>
         <source>Label for full bends</source>
-        <translation>Estensione completa</translation>
+        <translation>Etichetta per full bending</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="9907"/>
@@ -3206,7 +3206,7 @@ space unit</extracomment>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="10038"/>
         <source>Use cue sized numbers for grace note bends</source>
-        <translation>Utilizza numeri di dimensioni minori per le bend delle note di abbellimento</translation>
+        <translation>Utilizza numeri di dimensioni minori per i bending delle note di abbellimento</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="11209"/>
@@ -3741,7 +3741,7 @@ prima nota del sistema</translation>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="179"/>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="9810"/>
         <source>Bends</source>
-        <translation>Bend</translation>
+        <translation>Bending</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="184"/>
@@ -4161,12 +4161,12 @@ prima nota del sistema</translation>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="9965"/>
         <source>Line thickness on tablature staves:</source>
-        <translation>Spessore della linea delle intavolature</translation>
+        <translation>Spessore della linea sui righi di tablatura:</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="10003"/>
         <source>Reset &apos;Line thickness on tablature staves&apos; value</source>
-        <translation>Ripristina valore &apos;Spessore della linea dell&apos;intavolatura&apos;</translation>
+        <translation>Ripristina valore &apos;Spessore della linea sui righi di tablatura&apos;</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="10348"/>
@@ -4751,7 +4751,7 @@ altezza x del testo):</translation>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="9871"/>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="13372"/>
         <source>Tablature</source>
-        <translation>Intavolatura</translation>
+        <translation>Tablatura</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="13805"/>
@@ -5937,7 +5937,7 @@ altezza x del testo):</translation>
     <message>
         <location filename="../../src/notation/view/widgets/transposedialog.ui" line="62"/>
         <source>G♭ major / E♭ minor</source>
-        <translation>Sol♭ maggiore / Mi♭ minore</translation>
+        <translation>SOL♭ maggiore / MI♭ minore</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/transposedialog.ui" line="67"/>
@@ -6618,12 +6618,12 @@ altezza x del testo):</translation>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="125"/>
         <source>Next measure / Shift text right quickly</source>
-        <translation>Battuta successiva / Spostamento rapido del testo verso destra</translation>
+        <translation>Battuta successiva / Spostamento rapido del testo a destra</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="131"/>
         <source>Previous measure / Shift text left quickly</source>
-        <translation>Battuta precedente / Spostamento rapido del testo verso sinistra</translation>
+        <translation>Battuta precedente / Spostamento rapido del testo a sinistra</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="137"/>
@@ -8408,13 +8408,13 @@ altezza x del testo):</translation>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2134"/>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2211"/>
         <source>Set duration: 128th note</source>
-        <translation>Imposta durata: fusa</translation>
+        <translation>Imposta durata: 128esimo</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2141"/>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2218"/>
         <source>Set duration: 256th note</source>
-        <translation>Imposta durata: semifusa</translation>
+        <translation>Imposta durata: 256esimo</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2148"/>
@@ -8502,30 +8502,30 @@ altezza x del testo):</translation>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2429"/>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2430"/>
         <source>Standard bend</source>
-        <translation>Bend standard</translation>
+        <translation>Bending standard</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2436"/>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2437"/>
         <source>Pre-bend</source>
-        <translation>Pre-bend</translation>
+        <translation>Pre-bending</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2443"/>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2444"/>
         <source>Grace note bend</source>
-        <translation>Bend della nota di abbellimento</translation>
+        <translation>Bending nota di abbellimento</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2450"/>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2451"/>
         <source>Slight bend</source>
-        <translation>Leggera piegatura</translation>
+        <translation>Bending leggero</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2461"/>
         <source>Show/hide invisible elements</source>
-        <translation>Mostra/nascondi gli elementi invisibili</translation>
+        <translation>Mostra/nascondi elementi invisibili</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2475"/>
@@ -8540,7 +8540,7 @@ altezza x del testo):</translation>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2505"/>
         <source>Show element bounding rectangles</source>
-        <translation>Mostra i rettangoli di delimitazione degli elementi</translation>
+        <translation>Mostra rettangoli di delimitazione degli elementi</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2511"/>
@@ -8609,13 +8609,13 @@ altezza x del testo):</translation>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2112"/>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2189"/>
         <source>16th note</source>
-        <translation>Semicroma </translation>
+        <translation>16esimo</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2119"/>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2196"/>
         <source>32nd note</source>
-        <translation>Biscroma (trentaduesimo)</translation>
+        <translation>32esimo</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2126"/>
@@ -8627,7 +8627,7 @@ altezza x del testo):</translation>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2133"/>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2210"/>
         <source>128th note</source>
-        <translation>Fusa</translation>
+        <translation>128esimo</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2238"/>
@@ -8785,7 +8785,7 @@ altezza x del testo):</translation>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="2056"/>
         <source>Insert</source>
-        <translation>Inserire </translation>
+        <translation>Inserisci</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="1217"/>
@@ -8832,7 +8832,7 @@ altezza x del testo):</translation>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="787"/>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="788"/>
         <source>Auto beam</source>
-        <translation>Gruppo automatico</translation>
+        <translation>Travatura automatica</translation>
     </message>
     <message>
         <location filename="../../src/appshell/internal/applicationuiactions.cpp" line="53"/>
@@ -8877,7 +8877,7 @@ altezza x del testo):</translation>
     <message>
         <location filename="../../src/appshell/internal/applicationuiactions.cpp" line="107"/>
         <source>&amp;Playback controls</source>
-        <translation>Controlli &amp;riproduzione</translation>
+        <translation>Controlli di &amp;riproduzione</translation>
     </message>
     <message>
         <location filename="../../src/appshell/internal/applicationuiactions.cpp" line="108"/>
@@ -9002,12 +9002,12 @@ altezza x del testo):</translation>
     <message>
         <location filename="../../src/appshell/internal/applicationuiactions.cpp" line="99"/>
         <source>Restore the &amp;default layout</source>
-        <translation>Ripristina l&apos;impaginazione &amp;predefinita</translation>
+        <translation>Ripristina impaginazione &amp;predefinita</translation>
     </message>
     <message>
         <location filename="../../src/appshell/internal/applicationuiactions.cpp" line="100"/>
         <source>Restore the default layout</source>
-        <translation>Ripristina l&apos;impaginazione predefinita</translation>
+        <translation>Ripristina impaginazione predefinita</translation>
     </message>
     <message>
         <location filename="../../src/appshell/internal/applicationuiactions.cpp" line="114"/>
@@ -9059,12 +9059,12 @@ altezza x del testo):</translation>
     <message>
         <location filename="../../src/playback/internal/playbackuiactions.cpp" line="59"/>
         <source>Loop playback</source>
-        <translation>Riproduzione ciclica</translation>
+        <translation>Riproduzione in loop</translation>
     </message>
     <message>
         <location filename="../../src/playback/internal/playbackuiactions.cpp" line="76"/>
         <source>Open playback setup dialog</source>
-        <translation>Apri impostazioni di riproduzione</translation>
+        <translation>Apri dialog setup di riproduzione</translation>
     </message>
     <message>
         <location filename="../../src/playback/internal/playbackuiactions.cpp" line="101"/>
@@ -9090,12 +9090,12 @@ altezza x del testo):</translation>
     <message>
         <location filename="../../src/playback/internal/playbackuiactions.cpp" line="60"/>
         <source>Toggle ‘Loop playback’</source>
-        <translation>Attiva/disattiva &apos;Riproduzione ciclica&apos;</translation>
+        <translation>Attiva/disattiva &apos;Riproduzione in loop&apos;</translation>
     </message>
     <message>
         <location filename="../../src/playback/internal/playbackuiactions.cpp" line="68"/>
         <source>Toggle metronome playback</source>
-        <translation>Attiva/disattiva metronomo</translation>
+        <translation>Attiva/disattiva riproduzione metronomo</translation>
     </message>
     <message>
         <location filename="../../src/playback/internal/playbackuiactions.cpp" line="75"/>
@@ -9602,7 +9602,7 @@ altezza x del testo):</translation>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="1275"/>
         <source>E&amp;xpression text</source>
-        <translation>Espressione</translation>
+        <translation>Testo di espressione</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="1281"/>
@@ -10111,7 +10111,7 @@ altezza x del testo):</translation>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="456"/>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="457"/>
         <source>Fill with slashes</source>
-        <translation>Riempire con barre ritmiche</translation>
+        <translation>Riempi con barre ritmiche</translation>
     </message>
     <message>
         <location filename="../../src/framework/autobot/internal/autobotactions.cpp" line="37"/>
@@ -10271,7 +10271,7 @@ altezza x del testo):</translation>
         <location filename="../../src/appshell/qml/NotationPage/NotationPage.qml" line="136"/>
         <location filename="../../src/appshell/qml/PublishPage/PublishPage.qml" line="75"/>
         <source>Playback controls</source>
-        <translation>Controlli riproduzione</translation>
+        <translation>Controlli di riproduzione</translation>
     </message>
     <message>
         <location filename="../../src/appshell/qml/NotationPage/NotationPage.qml" line="158"/>
@@ -10509,7 +10509,7 @@ Pubblicato sotto la &lt;a href=&quot;%1&quot;&gt;GNU General Public License vers
     <message>
         <location filename="../../src/appshell/view/aboutmodel.cpp" line="41"/>
         <source>Unstable prerelease for %1</source>
-        <translation>Prerelease instabile della versione: %1</translation>
+        <translation>Prerelease instabile della versione %1</translation>
     </message>
 </context>
 <context>
@@ -11053,7 +11053,7 @@ Pubblicato sotto la &lt;a href=&quot;%1&quot;&gt;GNU General Public License vers
     <message>
         <location filename="../../src/appshell/qml/Preferences/internal/NoteInputSection.qml" line="77"/>
         <source>Color guitar bends outside of playable range</source>
-        <translation>Colora le bend della chitarra fuori dall&apos;estensione suonabile</translation>
+        <translation>Colora bending della chitarra fuori dall&apos;estensione suonabile</translation>
     </message>
     <message>
         <location filename="../../src/appshell/qml/Preferences/internal/NoteInputSection.qml" line="91"/>
@@ -11225,7 +11225,7 @@ Pubblicato sotto la &lt;a href=&quot;%1&quot;&gt;GNU General Public License vers
     <message>
         <location filename="../../src/appshell/view/preferences/generalpreferencesmodel.cpp" line="62"/>
         <source>Your version of %1 is up to date.</source>
-        <translation>Questa versione di %1 è aggiornata.</translation>
+        <translation>Versione di %1 aggiornata.</translation>
     </message>
     <message>
         <location filename="../../src/appshell/view/preferences/generalpreferencesmodel.cpp" line="95"/>
@@ -12388,12 +12388,12 @@ Pubblicato sotto la &lt;a href=&quot;%1&quot;&gt;GNU General Public License vers
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="204"/>
         <source>Beam</source>
-        <translation>Gruppo note</translation>
+        <translation>Travatura</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="205"/>
         <source>Beam segment</source>
-        <translation>Segmento gruppo</translation>
+        <translation>Segmento travatura</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="186"/>
@@ -12519,7 +12519,7 @@ Pubblicato sotto la &lt;a href=&quot;%1&quot;&gt;GNU General Public License vers
         <location filename="../../src/engraving/types/typesconv.cpp" line="228"/>
         <location filename="../../src/engraving/types/typesconv.cpp" line="1175"/>
         <source>Bend</source>
-        <translation>Bend</translation>
+        <translation>Bending</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="229"/>
@@ -12837,12 +12837,12 @@ Pubblicato sotto la &lt;a href=&quot;%1&quot;&gt;GNU General Public License vers
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="298"/>
         <source>Guitar bend</source>
-        <translation>Bend della chitarra</translation>
+        <translation>Bending della chitarra</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="299"/>
         <source>Guitar bend segment</source>
-        <translation>Segmento di bend della chitarra</translation>
+        <translation>Segmento di bending della chitarra</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="300"/>
@@ -12852,12 +12852,12 @@ Pubblicato sotto la &lt;a href=&quot;%1&quot;&gt;GNU General Public License vers
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="302"/>
         <source>Guitar bend hold segment</source>
-        <translation>Segmento di mantenimento bending chitarra</translation>
+        <translation>Segmento di mantenimento bend chitarra</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="303"/>
         <source>Guitar bend text</source>
-        <translation>Testo bending chitarra</translation>
+        <translation>Testo di bend chitarra</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="487"/>
@@ -13579,7 +13579,7 @@ Pubblicato sotto la &lt;a href=&quot;%1&quot;&gt;GNU General Public License vers
     <message>
         <location filename="../../src/engraving/engravingerrors.h" line="87"/>
         <source>This file was last saved in a development version of 3.0.</source>
-        <translation>Questo file è stato salvato per l&apos;ultima volta con una versione di sviluppo 3.0.</translation>
+        <translation>Questo file è stato salvato l&apos;ultima volta in una versione di sviluppo 3.0.</translation>
     </message>
     <message>
         <location filename="../../src/engraving/engravingerrors.h" line="90"/>
@@ -14781,22 +14781,22 @@ Tasto %1 sulle corde %2</translation>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="721"/>
         <source>Tablature</source>
-        <translation>Intavolatura</translation>
+        <translation>Tablatura</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="722"/>
         <source>Tablature 4 lines</source>
-        <translation>Intavolatura 4 linee</translation>
+        <translation>Tablatura 4 linee</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="723"/>
         <source>Tablature Serif</source>
-        <translation>Intavolatura Serif</translation>
+        <translation>Tablatura Serif</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="724"/>
         <source>Tablature Serif 4 lines</source>
-        <translation>Intavolatura Serif 4 linee</translation>
+        <translation>Tablatura Serif 4 linee</translation>
     </message>
     <message>
         <location filename="../../src/engraving/types/typesconv.cpp" line="726"/>
@@ -19798,7 +19798,7 @@ battuta in levare</translation>
     <message>
         <location filename="../../src/inspector/models/notation/bends/bendsettingsmodel.cpp" line="61"/>
         <source>Bend</source>
-        <translation>Bend</translation>
+        <translation>Bending</translation>
     </message>
     <message>
         <location filename="../../src/inspector/models/notation/bends/bendsettingsmodel.cpp" line="167"/>
@@ -19829,7 +19829,7 @@ battuta in levare</translation>
     <message>
         <location filename="../../src/inspector/view/qml/MuseScore/Inspector/notation/bends/BendSettings.qml" line="81"/>
         <source>Customize bend</source>
-        <translation>Personalizza bend</translation>
+        <translation>Personalizza bending</translation>
     </message>
     <message>
         <location filename="../../src/inspector/view/qml/MuseScore/Inspector/notation/bends/BendSettings.qml" line="104"/>
@@ -20616,7 +20616,7 @@ battuta in levare</translation>
         <location filename="../../src/inspector/view/qml/MuseScore/Inspector/notation/notes/StemSettings.qml" line="107"/>
         <source>Straight</source>
         <comment>Note flags</comment>
-        <translation>Preciso</translation>
+        <translation>Straight</translation>
     </message>
     <message>
         <location filename="../../src/inspector/view/qml/MuseScore/Inspector/notation/notes/StemSettings.qml" line="190"/>
@@ -21229,12 +21229,12 @@ battuta in levare</translation>
     <message>
         <location filename="../../src/inspector/models/notation/lines/glissandosettingsmodel.cpp" line="56"/>
         <source>Straight</source>
-        <translation>Preciso</translation>
+        <translation>Dritta</translation>
     </message>
     <message>
         <location filename="../../src/inspector/models/notation/lines/glissandosettingsmodel.cpp" line="57"/>
         <source>Wavy</source>
-        <translation>Ondulato</translation>
+        <translation>Ondulata</translation>
     </message>
     <message>
         <location filename="../../src/inspector/models/notation/lines/hairpinlinesettingsmodel.cpp" line="40"/>
@@ -22209,7 +22209,7 @@ Inoltre, Mastering MuseScore offre una comunità di musicisti di supporto, con s
     <message>
         <location filename="../../src/framework/musesampler/internal/musesampleractioncontroller.cpp" line="45"/>
         <source>Muse Sampler library is detected, version %1</source>
-        <translation>Rilevata libreria Muse Sampler, versione %1</translation>
+        <translation>Libreria Muse Sampler rilevata, versione %1</translation>
     </message>
 </context>
 <context>
@@ -22301,7 +22301,7 @@ Inoltre, Mastering MuseScore offre una comunità di musicisti di supporto, con s
     <message>
         <location filename="../../src/notation/qml/MuseScore/NotationScene/internal/EditStyle/BeamsPage.qml" line="37"/>
         <source>Beam distance</source>
-        <translation>Distanza gruppo</translation>
+        <translation>Distanza travatura</translation>
     </message>
     <message>
         <location filename="../../src/notation/qml/MuseScore/NotationScene/internal/EditStyle/BeamsPage.qml" line="45"/>
@@ -22351,7 +22351,7 @@ Inoltre, Mastering MuseScore offre una comunità di musicisti di supporto, con s
     <message>
         <location filename="../../src/notation/qml/MuseScore/NotationScene/internal/EditStyle/NoteFlagsTypeSelector.qml" line="43"/>
         <source>Straight</source>
-        <translation>Preciso</translation>
+        <translation>Straight</translation>
     </message>
     <message>
         <location filename="../../src/notation/qml/MuseScore/NotationScene/internal/NotationSwitchPanel.qml" line="100"/>
@@ -24335,7 +24335,7 @@ Inoltre, Mastering MuseScore offre una comunità di musicisti di supporto, con s
         <location filename="../../src/palette/qml/MuseScore/Palette/internal/PaletteGridView.qml" line="194"/>
         <source>More</source>
         <extracomment>Caption of a button to reveal more elements</extracomment>
-        <translation>Di più</translation>
+        <translation>Altro</translation>
     </message>
     <message>
         <location filename="../../src/palette/qml/MuseScore/Palette/internal/PaletteGridView.qml" line="618"/>
@@ -24598,7 +24598,7 @@ Inoltre, Mastering MuseScore offre una comunità di musicisti di supporto, con s
     <message>
         <location filename="../../src/palette/internal/palettecreator.cpp" line="666"/>
         <source>Noteheads</source>
-        <translation>Testa nota</translation>
+        <translation>Teste della nota</translation>
     </message>
     <message>
         <location filename="../../src/palette/internal/palettecreator.cpp" line="691"/>
@@ -24939,7 +24939,7 @@ Inoltre, Mastering MuseScore offre una comunità di musicisti di supporto, con s
         <location filename="../../src/palette/internal/palettecreator.cpp" line="1503"/>
         <source>Straight</source>
         <extracomment>System text to switch from swing rhythm back to straight rhythm</extracomment>
-        <translation>Preciso</translation>
+        <translation>Straight</translation>
     </message>
     <message>
         <location filename="../../src/palette/internal/palettecreator.cpp" line="1512"/>
@@ -24961,7 +24961,7 @@ Inoltre, Mastering MuseScore offre una comunità di musicisti di supporto, con s
     <message>
         <location filename="../../src/palette/internal/palettecreator.cpp" line="1542"/>
         <source>Expression text</source>
-        <translation>Espressione Testo</translation>
+        <translation>Testo di espressione</translation>
     </message>
     <message>
         <location filename="../../src/palette/internal/palettecreator.cpp" line="1545"/>
@@ -28838,7 +28838,7 @@ non riuscita.</translation>
         <location filename="../../src/framework/cloud/view/cloudsmodel.cpp" line="188"/>
         <source>Replace the existing &lt;a href=&quot;%1&quot;&gt;online score&lt;/a&gt;</source>
         <extracomment>The text between `&lt;a href=&quot;%1&quot;&gt;` and `&lt;/a&gt;` will be a clickable link to the online score in question</extracomment>
-        <translation>Sostituisci la &lt;a href=&quot;%1&quot;&gt;partitura online&lt;/a&gt; esistente</translation>
+        <translation>Sostituisci &lt;a href=&quot;%1&quot;&gt;partitura online&lt;/a&gt; esistente</translation>
     </message>
     <message>
         <location filename="../../src/framework/cloud/view/cloudsmodel.cpp" line="191"/>
@@ -28849,7 +28849,7 @@ non riuscita.</translation>
         <location filename="../../src/framework/cloud/view/cloudsmodel.cpp" line="199"/>
         <source>Replace the &lt;a href=&quot;%1&quot;&gt;existing audio&lt;/a&gt;</source>
         <extracomment>The text between `&lt;a href=&quot;%1&quot;&gt;` and `&lt;/a&gt;` will be a clickable link to the online audio in question</extracomment>
-        <translation>Sostituisci l&apos;&lt;a href=&quot;%1&quot;&gt;audio esistente&lt;/a&gt;</translation>
+        <translation>Sostituisci &lt;a href=&quot;%1&quot;&gt;audio esistente&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../src/framework/cloud/view/cloudsmodel.cpp" line="202"/>

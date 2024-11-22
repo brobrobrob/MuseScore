@@ -1055,7 +1055,7 @@
     <message>
         <location filename="../../src/notation/view/widgets/editstaff.ui" line="159"/>
         <source>Hide system barline</source>
-        <translation>Skrýt spojovací čáru systému</translation>
+        <translation>Skrýt taktovou čáru systému</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstaff.ui" line="166"/>
@@ -2922,7 +2922,7 @@ space unit</extracomment>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="4432"/>
         <source>Reset &apos;Time signature left margin&apos; value</source>
-        <translation>Obnovit levý okraj taktového označení</translation>
+        <translation>Obnovit velikost levého okraje taktového označení</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="4462"/>
@@ -6779,7 +6779,7 @@ pro čísla u nepravidelných rytm. skupin</translation>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="382"/>
         <source>Similar in this range</source>
-        <translation>Podobné v tomto rozsahu</translation>
+        <translation>Podobné v tomto výběru</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="388"/>
@@ -7556,7 +7556,7 @@ pro čísla u nepravidelných rytm. skupin</translation>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="518"/>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="519"/>
         <source>Floating</source>
-        <translation>Plovoucí</translation>
+        <translation>Bez formátování</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationuiactions.cpp" line="526"/>
@@ -11661,7 +11661,7 @@ Vydáno pod &lt;a href=&quot;%1&quot;&gt;GNU General Public License verze 3&lt;/
     <message>
         <location filename="../../src/engraving/accessibility/accessibleroot.cpp" line="220"/>
         <source>Range selection starts %1%2 ends %3%4</source>
-        <translation>Výběr rozsahu začíná %1%2 končí %3%4</translation>
+        <translation>Výběr začíná %1%2 končí %3%4</translation>
     </message>
     <message>
         <location filename="../../src/engraving/dom/chordrest.cpp" line="492"/>
@@ -21569,14 +21569,14 @@ předtaktí</translation>
         <source>Major</source>
         <comment>interval quality</comment>
         <extracomment>Interval, not the mode of a key signature</extracomment>
-        <translation>Durová</translation>
+        <translation>Velká</translation>
     </message>
     <message>
         <location filename="../../src/inspector/view/qml/MuseScore/Inspector/notation/ornaments/OrnamentSettings.qml" line="132"/>
         <source>Minor</source>
         <comment>interval quality</comment>
         <extracomment>Interval, not the mode of a key signature</extracomment>
-        <translation>Mollová</translation>
+        <translation>Malá</translation>
     </message>
     <message>
         <location filename="../../src/inspector/view/qml/MuseScore/Inspector/notation/ornaments/OrnamentSettings.qml" line="158"/>
@@ -21766,13 +21766,13 @@ předtaktí</translation>
         <location filename="../../src/inspector/view/qml/MuseScore/Inspector/common/VoicesAndPositionSection.qml" line="196"/>
         <location filename="../../src/inspector/view/qml/MuseScore/Inspector/notation/notes/HeadSettings.qml" line="201"/>
         <source>On</source>
-        <translation>Nasazený</translation>
+        <translation>Sloučit</translation>
     </message>
     <message>
         <location filename="../../src/inspector/view/qml/MuseScore/Inspector/common/VoicesAndPositionSection.qml" line="197"/>
         <location filename="../../src/inspector/view/qml/MuseScore/Inspector/notation/notes/HeadSettings.qml" line="202"/>
         <source>Off</source>
-        <translation>Sejmutý</translation>
+        <translation>Oddělit</translation>
     </message>
     <message>
         <location filename="../../src/inspector/view/qml/MuseScore/Inspector/notation/expressions/ExpressionsSettings.qml" line="82"/>
@@ -22491,7 +22491,7 @@ Mastering MuseScore navíc nabízí podporující společenství hudebníků s d
     <message>
         <location filename="../../src/notation/internal/notationaccessibility.cpp" line="183"/>
         <source>Range selection; %1; %2</source>
-        <translation>Výběr rozsahu; %1; %2</translation>
+        <translation>Výběr; %1; %2</translation>
     </message>
     <message>
         <location filename="../../src/notation/internal/notationaccessibility.cpp" line="203"/>

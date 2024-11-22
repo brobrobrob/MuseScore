@@ -4679,7 +4679,7 @@ x-korkeudesta):</translation>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="718"/>
         <source>Swing settings</source>
-        <translation>Swing asetukset</translation>
+        <translation>Swing-asetukset</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/editstyle.ui" line="743"/>
@@ -5736,7 +5736,7 @@ x-korkeudesta):</translation>
         <location filename="../../src/notation/view/widgets/stafftextpropertiesdialog.ui" line="27"/>
         <location filename="../../src/notation/view/widgets/stafftextpropertiesdialog.ui" line="33"/>
         <source>Swing settings</source>
-        <translation>Swing asetukset</translation>
+        <translation>Swing-asetukset</translation>
     </message>
     <message>
         <location filename="../../src/notation/view/widgets/stafftextpropertiesdialog.ui" line="54"/>
@@ -10173,7 +10173,7 @@ x-korkeudesta):</translation>
     <message>
         <location filename="../../src/framework/diagnostics/internal/diagnosticsactions.cpp" line="52"/>
         <source>Show g&amp;raphics info…</source>
-        <translation type="unfinished"/>
+        <translation>Näytä g&amp;rafiikkatiedot…</translation>
     </message>
     <message>
         <location filename="../../src/framework/diagnostics/internal/diagnosticsactions.cpp" line="57"/>
